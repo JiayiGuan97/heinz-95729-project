@@ -11,7 +11,7 @@ cd ml
 python knn.py
 ```
 
-For single usage, the user will need to input the restaurant features listed in "features.txt".
+For single usage, the user will need to run knn_old.py and input the restaurant features listed in "features.txt".
 
 For example, the user can input "Cab" as a feature. Also, the user can input several features as "Cab, American". Capitalized and comma-splitted.
 
